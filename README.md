@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manish bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish bhardwaj" height="30" width="40" /></a>
 <a href="https://kaggle.com/manish1bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manish1bhardwaj" height="30" width="40" /></a>
 <a href="https://instagram.com/bhardwaj._00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhardwaj._00" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manish1bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manish1bhardwaj" height="30" width="40" /></a>
