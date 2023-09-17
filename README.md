@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/manish-bhardwaj-6243aa228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons8-linkedin-48 png" alt="manish1bhardwaj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manish-bhardwaj-6243aa228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons8-linkedin-48.png" alt="E:\ height="30" width="40" /></a>
 <a href="https://kaggle.com/manish1bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manish1bhardwaj" height="30" width="40" /></a>
 <a href="https://instagram.com/bhardwaj._00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhardwaj._00" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manish1bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manish1bhardwaj" height="30" width="40" /></a>
