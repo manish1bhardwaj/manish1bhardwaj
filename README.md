@@ -1,3 +1,4 @@
+![logo](https://github.com/manish1bhardwaj/manish1bhardwaj/blob/main/Black%20and%20Blue%20Bold%20Business%20Promo%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Manish Bhardwaj</h1>
 <h3 align="center">"Aspiring AI & IoT Engineer | Machine Learning | Python | Web Developer"</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
